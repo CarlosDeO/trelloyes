@@ -5,9 +5,10 @@ exports[`List component render the UI as expected 1`] = `
   className="Card"
 >
   <button
+    onClick={[Function]}
     type="button"
   >
-     Delete 
+    Delete
   </button>
   <h3>
      
